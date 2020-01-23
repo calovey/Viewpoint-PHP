@@ -1,0 +1,57 @@
+.text {
+    color: white;
+    font-size: 20px;
+    padding: 8px 12px;
+    z-index: 1;
+    font-size: 20px;
+    padding: 8px 12px;
+    position: absolute;
+    padding-left: 5%;
+    top: 63%;
+   
+   
+  }
+  .paddingside
+  {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+
+  }
+  .commentsection
+  {
+    width: 40%;
+    background-color: #dddddd;
+    border: 0.5px solid #bbbbbb;
+    border-radius: 4px;
+    padding: 1%;
+
+  }
+  .Btn1
+{
+    border-radius: 15px;
+    padding: 6px;
+    background-color: #bbbbbb;
+    color: black;
+    border-color:transparent;
+    border-width: 0.5px;
+    width: 30%;
+
+}
+.Btn1:hover
+{
+    background-color: #bbbbbb;
+    box-shadow: -1px 2px 2px -1px rgba(0,0,0,0.75);
+
+
+}
+.textareacss
+{
+    border-radius: 15px;
+    padding: 7px;
+    border-color:#bbbbbb;
+    border-width: 0.5px;
+    background-color: #eeeeee;
+}
+.pad{ padding-left: 10%;
+padding-right: 10%;}

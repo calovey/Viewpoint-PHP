@@ -1,0 +1,44 @@
+
+.card {
+    background-color:#afa939;
+    transition: 0.3s;
+    width: 75%;  
+    text-align: center;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+    text-align: center;
+    color: white;
+    padding: 2px 2px;
+    font-size: 16px;
+    font-weight: normal;
+   
+}
+.commentButton
+{
+    border-radius: 15px;
+    padding: 8px;
+    background-color: #eeeeee;
+    color: black;
+    border-color: transparent;
+    border-width: 0.5px;
+
+}
+.commentButton:hover
+{
+   
+    box-shadow: -1px 2px 2px -1px rgba(0,0,0,0.75);
+
+
+}
+.tablestyle
+  {
+    padding-left: 8%;
+
+   
+  }

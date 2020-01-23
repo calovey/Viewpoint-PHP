@@ -1,0 +1,40 @@
+
+.divsignup
+{
+    text-align: center;
+    border: 1px solid #bbbbbb;  
+    padding-right: 20%;
+    padding-left: 20%;
+    background-color: #afa939af;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    
+
+}
+.Btn1
+{
+    border-radius: 0px;
+    padding: 6px;
+    background-color: #bbbbbb;
+    color: black;
+    border-color:transparent;
+    border-width: 0.5px;
+    width: 100%;
+
+}
+.Btn1:hover
+{
+    background-color: #DDDDDD;
+    box-shadow: -1px 2px 2px -1px rgba(0,0,0,0.75);
+
+
+}
+input[type=text],input[type=password],select
+{
+    text-align: center;
+
+    border-radius: 15px;
+    padding: 7px;
+    border-color:#bbbbbb;
+    border-width: 0.5px;
+    width:100% ;
+}
